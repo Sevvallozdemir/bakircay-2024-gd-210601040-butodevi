@@ -1,4 +1,2 @@
-
-Oyunu oynamak icin--> https://sevvalozdemir.itch.io/matching-game
-
-ŞİFRE -->123
+Oyunu oynamak için---> https://sevvalozdemir.itch.io/matching-game
+İTCH.İO ŞİFRESİ--> 123
